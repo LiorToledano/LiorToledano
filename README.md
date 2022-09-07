@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lior Toledano</h1>
 <h3 align="center">A passionate Deep Learning and Computer Vision developer from Israel</h3>
 
+- 👨‍💻 B.Sc. in Software Engineering from Afeka Tel Aviv Academic College of Engineering.
+
+- 🔭 I’m currently looking for a full position in the field of Deep Learning and Computer Vision
+
+
 - ⚡ Kaggle competitions Expert **Ranked on the Top 1,7000 competitors.**
 
 <h3 align="left">Connect with me:</h3>
