@@ -2,11 +2,11 @@
 
 <h3 align="center" > Passionate about Deep Learning and Computer Vision </h3>
 
-- 👨‍💻 B.Sc. in Software Engineering from Afeka Tel Aviv Academic College of Engineering.
+- 👨‍💻 **B.Sc. in Software Engineering from Afeka Tel Aviv Academic College of Engineering.**
 
-- 🔭 I’m currently looking for a full position in the field of Deep Learning and Computer Vision.
+- 🔭 **I’m currently looking for a full position in the field of Deep Learning and Computer Vision.**
 
-- ⚡ Kaggle competitions Expert **ranked on the top 1,700 competitors.**
+- ⚡ **Kaggle competitions Expert - ranked on the top 1,700 competitors.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
