@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lior Toledano</h1>
+<h1 align="center">Hi , I'm Lior Toledano 👋</h1>
 <h3 align="center">A passionate Deep Learning and Computer Vision developer from Israel</h3>
 
 - 👨‍💻 B.Sc. in Software Engineering from Afeka Tel Aviv Academic College of Engineering.
