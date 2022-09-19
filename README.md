@@ -6,7 +6,7 @@
 
 - 🔭 **I’m currently looking for a full position in the field of Deep Learning and Computer Vision.**
 
-- ⚡ **Kaggle competitions Expert - ranked on the top 1,700 competitors.**
+- ⚡ **Kaggle competitions Expert - ranked on the top 1,700 competitors (Top 1%) .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
