@@ -4,9 +4,9 @@
 
 - 👨‍💻 **B.Sc. in Software Engineering from Afeka Tel Aviv Academic College of Engineering.**
 
-- 🔭 **I’m currently looking for a full position in the field of Deep Learning and Computer Vision.**
+- 🔭 **I’m currently work as an Algorithm Developer at Avertto.**
 
-- ⚡ **Kaggle competitions Expert - ranked on the top 1,700 competitors (Top 1%) .**
+- ⚡ **Kaggle competitions Expert - ranked on the top 1,500 competitors (Top 1%) .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
