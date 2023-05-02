@@ -2,11 +2,13 @@
 
 <h3 align="center" > Passionate about Deep Learning and Computer Vision </h3>
 
-- 👨‍💻 **B.Sc. in Software Engineering from Afeka Tel Aviv Academic College of Engineering.**
+- **B.Sc. in Software Engineering from Afeka Tel Aviv Academic College of Engineering.** 👨‍💻 
 
-- 🔭 **I’m currently work as an Algorithm Developer at Avertto.**
+- **Algorithm Developer at Avertto.** 🔭 
 
-- ⚡ **Kaggle competitions Expert - ranked on the top 1,500 competitors (Top 1%) .**
+- **Kaggle competitions Expert - ranked among the top 1% .** ⚡ 
+
+-  **Feel free to explore my projects and repositories!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
