@@ -4,11 +4,13 @@
 
 - **B.Sc. in Software Engineering from Afeka Tel Aviv Academic College of Engineering.** 👨‍💻 
 
-- **Algorithm Developer at Avertto.** 🔭 
+- **Data scientist with 1 year of industry experience - looking for my next opportunity** 🔭 
 
 - **Kaggle competitions Expert - ranked among the top 1% .** ⚡ 
 
 -  **Feel free to explore my projects and repositories!**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
