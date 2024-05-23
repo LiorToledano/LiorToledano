@@ -4,7 +4,7 @@
 
 - **B.Sc. in Software Engineering from Afeka Tel Aviv Academic College of Engineering.** 👨‍💻 
 
-- **Data scientist with 1 year of industry experience ** 🔭 
+- **Data scientist with 1 and a half years of industry experience** 🔭 
 
 - **Kaggle competitions Expert - ranked among the top 1% .** ⚡ 
 
