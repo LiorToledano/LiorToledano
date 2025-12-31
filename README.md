@@ -11,7 +11,7 @@
 ## About Me
 
 - 🎓 B.Sc. in Software Engineering from Afeka Tel Aviv Academic College of Engineering (AI & ML Major, GPA: 95)
-- 💼 ML Engineer with 2+ years of industry experience in pharma, signal processing & computer vision
+- 💼 ML Engineer with 3 years of industry experience in pharma, signal processing & computer vision
 - 🏆 Kaggle Competitions Expert - Top 1% globally (out of 215,000+ competitors)
 
 ## Areas of Expertise
