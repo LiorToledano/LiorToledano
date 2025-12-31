@@ -1,23 +1,54 @@
-<h1 align="center">Hi , I'm Lior Toledano 👋</h1>
+<h1 align="center">Hi, I'm Lior Toledano</h1>
+<h3 align="center">Machine Learning & Deep Learning Engineer</h3>
 
-<h3 align="center" > Passionate about Deep Learning and Computer Vision </h3>
-
-- **B.Sc. in Software Engineering from Afeka Tel Aviv Academic College of Engineering.** 👨‍💻 
-
-- **Data scientist with 1 and a half years of industry experience** 🔭 
-
-- **Kaggle competitions Expert - ranked among the top 1% .** ⚡ 
-
--  **Feel free to explore my projects and repositories!**
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/lior-toledano/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lior-toledano" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/liortoledano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="liortoledano" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/lior-toledano/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.kaggle.com/liortoledano"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
+## About Me
+
+- 🎓 B.Sc. in Software Engineering from Afeka Tel Aviv Academic College of Engineering (AI & ML Major)
+- 💼 ML Engineer with 3 years of industry experience
+- 🏆 Kaggle Competitions Expert - Top 1% globally (out of 215,000+ competitors)
+
+## Areas of Expertise
+
+- **Deep Learning** - CNNs, Transformers, object detection, segmentation, time-series modeling
+- **Computer Vision** - Image classification, detection, segmentation pipelines
+- **NLP** - Text classification, summarization, fine-tuning LLMs
+- **MLOps** - End-to-end pipelines, experiment tracking, cloud deployment (AWS)
+
+## Tech Stack
+
+**Deep Learning & ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+
+**Computer Vision**
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Detectron2](https://img.shields.io/badge/Detectron2-4285F4?style=flat)
+![MMDetection](https://img.shields.io/badge/MMDetection-0078D4?style=flat)
+
+**Data & Cloud**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+**Experiment Tracking**
+
+![W&B](https://img.shields.io/badge/Weights%20&%20Biases-FFBE00?style=flat&logo=weightsandbiases&logoColor=black)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+
+---
+
+Feel free to explore my repositories!
